@@ -5,7 +5,7 @@ al problema propuesto en el archivo "Planteamiento problema" para dar respuesta 
  ![alt text](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON/blob/main/Planteamiento_problema.png?raw=true)
  
  
-Se realizo el analisis utilizando jupyter , y la libreria cartopy de python espcialmente diseñada para el analisis y trazado de mapas 
+Se realizo el analisis utilizando jupyter tambien se cuenta con un archivo.txt donde se encuentran las coordenadas necesarias para llevar a cabo la georreferenciacion,se utilizo  el paquete  cartopy de python el cual  hace uso de las poderosas bibliotecas PROJ.4, NumPy y Shapely e incluye una interfaz programática construida sobre Matplotlib para la creación de mapas de calidad de publicación.
 se debe contar con las siguientes librerias instaladas para llevar a cabo la ejecucion del notebook correctamente:
 
 
