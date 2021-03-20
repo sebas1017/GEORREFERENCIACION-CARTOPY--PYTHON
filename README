@@ -2,7 +2,7 @@ Durante este proyecto de analitica ,utilizo un conjunto de datos en formato csv 
 se hizo un limpiado previo al csv eliminando las filas que tuvieran datos faltantes, luego de esto se requiere realizar un analisis sobre estos datos para dar respuesta
 al problema propuesto en el archivo "Planteamiento problema" para dar respuesta a ciertas cuestiones
  
- ![alt text](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON/main/Planteamiento_problema.png?raw=true)
+ ![alt text](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON/blob/main/Planteamiento_problema.png?raw=true)
  
  
 Se realizo el analisis utilizando jupyter , y la libreria cartopy de python espcialmente diseñada para el analisis y trazado de mapas 
@@ -24,7 +24,7 @@ de los circulos graficados en el mapa , estos son proporcionales al valor del da
  
  preview del analisis geografico
  
- ![alt text](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON/main/preview_analisisgeografico.png?raw=true)
+ ![alt text](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON/blob/main/preview_analisisgeografico.png?raw=true)
 
 
 
