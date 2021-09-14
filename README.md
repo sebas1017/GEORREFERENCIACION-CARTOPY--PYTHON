@@ -3,7 +3,8 @@ se hizo un limpiado previo al csv eliminando las filas que tuvieran datos faltan
 al problema propuesto en el archivo "Planteamiento problema" para dar respuesta a ciertas cuestiones
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas1017&layout=compact)](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON)
  ![alt text](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON/blob/main/Planteamiento_problema.png?raw=true)
- [! [Estadísticas de GitHub de Sebas1017] (https://github-readme-stats.vercel.app/api ? Username = sebas1017 )] (https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebas1017&layout=compact)](https://github.com/sebas1017/GEORREFERENCIACION-CARTOPY--PYTHON)
+
  
 Se realizo el analisis utilizando jupyter tambien se cuenta con un archivo.txt donde se encuentran las coordenadas necesarias para llevar a cabo la georreferenciacion,se utilizo  el paquete  cartopy de python el cual  hace uso de las poderosas bibliotecas PROJ.4, NumPy y Shapely e incluye una interfaz programática construida sobre Matplotlib para la creación de mapas de calidad de publicación.
 se debe contar con las siguientes librerias instaladas para llevar a cabo la ejecucion del notebook correctamente:
